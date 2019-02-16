@@ -201,7 +201,9 @@ hr {
 }
 
 section.footer {
-    min-height: 100px;
+    margin: 24px 36px;
+    padding: 36px 36px;
+    border-top: 3px double #ccc;
 }
 
 /* Copyright Wrap */
