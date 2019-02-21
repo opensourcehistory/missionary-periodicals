@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2575068.svg)](https://doi.org/10.5281/zenodo.2575068)
+
 # Missionary Periodicals of the Antebellum United States
 A collection representing all known periodicals with an expressly missionary prospectus or sponsor published in the United States before the Civil War.
 
